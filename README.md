@@ -5,5 +5,5 @@ I Applied Client-Server architecture as I made a RESTful webservice to store dat
 Branch Main is the client side and Branch service-branch is the server side.\
 I created the webservice using jersy library and published it on tomcat local server.\
 I stored data like the IDs of favourite movies, manage users login verification, upload users'photos and
-store reviews.\
+store reviews.
 # Attatched a demo and screenshots from the project.
