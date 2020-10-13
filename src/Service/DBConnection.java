@@ -1,5 +1,5 @@
 
-package test;
+package Service;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -14,7 +14,7 @@ public class DBConnection {
     private static final String USERS = "users";
     private static final String MOVIES = "Movies";
     private static final String REVIEWS = "Reviews";
-    private static final String mPath = "C:\\Users\\magdy\\eclipse-workspace\\JavaAPI\\example.json";
+    private static final String mPath = "C:\\Users\\magdy\\eclipse-workspace\\JavaAPI\\database.json";
     private  JSONObject mDBObject;
     
 

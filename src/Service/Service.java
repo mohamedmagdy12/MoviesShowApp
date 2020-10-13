@@ -1,4 +1,4 @@
-package test;
+package Service;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
