@@ -9,4 +9,7 @@ store reviews.
 # Screenshots from the project
 <img src="https://github.com/mohamedmagdy12/MoviesShowApp/blob/main/Screenshot_2020-10-13-03-27-29-83_831cd39b064e176903019524df8eeb16.jpg" width="300" height="600">
 <img src="https://github.com/mohamedmagdy12/MoviesShowApp/blob/main/Screenshot_2020-10-13-01-24-13-99_831cd39b064e176903019524df8eeb16.jpg" width="300" height="600">
+# Screenshot of database on the server side
+img src="https://github.com/mohamedmagdy12/MoviesShowApp/blob/main/Database.PNG" width="600" height="300">
+
 
