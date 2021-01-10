@@ -12,6 +12,5 @@ store reviews.
 # Screenshot of database on the server side
 <img src="https://github.com/mohamedmagdy12/MoviesShowApp/blob/main/Database.PNG" width="1000" height="600">
 
-# Attatched a demo video of the project.
 
 
